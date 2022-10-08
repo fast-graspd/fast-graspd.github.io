@@ -1,7 +1,7 @@
 # Setup
-title: "Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands"
-tagline: ECCV 2022
-url: https://graspd-eccv22.github.io
+title: "DexGrasp-1M: Dexterous Multi-finger Grasp Generation Through Differentiable Simulation"
+tagline: Under Review at ICRA 2023
+url: https://dexgrasp.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
