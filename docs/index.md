@@ -6,7 +6,7 @@ title: Home
 <br />
 
 <p class="message">
-  Under single-blind review at ICRA 2023.
+  Accepted to ICRA 2023. Info below will be updated as the conference date approaches.
 </p>
 
 <H1>DexGrasp-1M: Dexterous Multi-finger Grasp Generation Through Differentiable Simulation</H1>
@@ -23,7 +23,7 @@ title: Home
 <sup>2</sup>[Nvidia](https://www.nvidia.com/en-us/research/),
 <sup>3</sup>[Samsung](https://research.samsung.com/)</small>
 
-Submission to IEEE International Conference on Robotics and Automation (ICRA) 2023
+IEEE International Conference on Robotics and Automation (ICRA) 2023
 
 <img src="assets/teaser.jpg" alt="Teaser image with examples of grasps of a variety of objects with the Barrett, Allegro and Shadow hands." style="max-width:none; width:140%; margin-left:-20%;">
 
